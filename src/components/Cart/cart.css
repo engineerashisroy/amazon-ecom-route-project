@@ -1,0 +1,16 @@
+.cart-details h2,
+h3,
+h5,
+h4 {
+  padding-top: 10px;
+  padding-left: 20px;
+  color: black;
+  font-weight: 100;
+}
+.cart-details h1 {
+  padding-top: 10px;
+  padding-left: 20px;
+  color: black;
+  font-weight: 600;
+  font-size: 24px;
+}

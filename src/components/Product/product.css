@@ -1,0 +1,29 @@
+.product-container {
+  border: 1px solid #5a5a5a;
+  border-radius: 8px;
+  position: relative;
+  height: 510px;
+}
+
+.product-container img {
+  width: 290px;
+  border-radius: 8px;
+  margin: 8px;
+}
+.product-details {
+  padding-left: 10px;
+}
+.product-button {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  cursor: pointer;
+}
+.product-button:hover {
+  background: rgb(241, 136, 16);
+  cursor: pointer;
+}

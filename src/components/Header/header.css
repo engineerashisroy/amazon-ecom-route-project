@@ -1,0 +1,27 @@
+.header-container {
+  height: 85px;
+  width: 1170px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.main-container {
+  background: #1c2b35;
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+}
+.header-description ul {
+  display: flex;
+}
+.header-description ul li {
+  list-style: none;
+  padding: 10px;
+}
+.header-description ul li a {
+  text-decoration: none;
+  font-size: 21px;
+  color: whitesmoke;
+  font-family: "Courier New", Courier, monospace;
+}

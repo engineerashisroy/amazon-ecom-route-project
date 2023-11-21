@@ -1,0 +1,44 @@
+[
+    {
+      "_id": "654f43d38dc9f377dd0dc6ae",
+      "name": "Stella Waters",
+      "email": "stellawaters@calcula.com",
+      "price": "100"
+    },
+    {
+      "_id": "654f43d3bb8cff8c91c24d5b",
+      "name": "Martinez Jacobs",
+      "email": "martinezjacobs@calcula.com",
+      "price": "200"
+    },
+    {
+      "_id": "654f43d3fccdb7314db716c9",
+      "name": "Hamilton Puckett",
+      "email": "hamiltonpuckett@calcula.com",
+      "price": "300"
+    },
+    {
+      "_id": "654f43d37f8bd226f647f44c",
+      "name": "Anita Newton",
+      "email": "anitanewton@calcula.com",
+      "price": "400"
+    },
+    {
+      "_id": "654f43d3e5a668cf4206d2c6",
+      "name": "Sparks Carroll",
+      "email": "sparkscarroll@calcula.com",
+      "price": "500"
+    },
+    {
+      "_id": "654f43d3669135e7d2349b5a",
+      "name": "Clarice Wilcox",
+      "email": "claricewilcox@calcula.com",
+      "price": "600"
+    },
+    {
+      "_id": "654f43d3a29534593e2da854",
+      "name": "Frederick Gilbert",
+      "email": "frederickgilbert@calcula.com",
+      "price": "700"
+    }
+  ]

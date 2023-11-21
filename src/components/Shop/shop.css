@@ -1,0 +1,29 @@
+.shop-container {
+  width: 1170px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
+.shop-container a button {
+  background: yellow;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  margin-left: 20px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+.products-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  margin-top: 120px;
+}
+.cart-container {
+  margin-top: 120px;
+  position: fixed;
+  right: 0;
+  width: 20%;
+  background: green;
+  height: 70vh;
+}
